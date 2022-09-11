@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Alex Sey
+- 👋 Hi, I’m Alexey
 - My telegram https://t.me/Alex_Life9

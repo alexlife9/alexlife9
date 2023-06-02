@@ -3,7 +3,7 @@
 <h3 align="center">Java Developer</h3>
 <hr/>
 #Контакты<br/>
-telegram: https://t.me/Alex_Life9<br/>
+telegram: https://t.me/AlexLife9<br/>
 <hr/>
 #Проекты
 <hr/>

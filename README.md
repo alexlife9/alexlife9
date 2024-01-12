@@ -4,8 +4,10 @@
 <hr/>
 #Контакты<br/>
 telegram: https://t.me/AlexLife9<br/>
+www.linkedin.com/in/alexlife9<br/>
 <hr/>
-#Проекты
+#Навыки
+Java, GIT, Maven, JUnit, PostgreSQL, JCDB, Multithreading, HTML5, Spring (MVC, Boot, Data, REST), Tomcat, Servlet, Hibernate, ORM, Docker, Kafka, Kubernetes 
 <hr/>
 #Инструменты:
 <hr/>
